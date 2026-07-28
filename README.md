@@ -170,7 +170,7 @@ python graph_alpha.py         # per-p fan-out curves
 ---
 
 ## Flow Demo
-[Demo Video]([https://drive.google.com/file/d/1L_3UB3HPtUO6X8tnLA7TPqy_JaBkYPPn/view](https://drive.google.com/file/d/1L_3UB3HPtUO6X8tnLA7TPqy_JaBkYPPn/view?usp=sharing)).
+[Demo Video](https://drive.google.com/file/d/1L_3UB3HPtUO6X8tnLA7TPqy_JaBkYPPn/view?usp=sharing).
 
 ## References
 
